@@ -1,8 +1,4 @@
-Intern: HÀ VIỆT HOÀNG
-
-Team: Platform Adtech
-
-# Week_1 - Nền tảng cơ bản (Python / SQL / Linux / MySQL)
+# Week 1 - Nền tảng cơ bản (Python / SQL / Linux / MySQL)
 
 ## Mục tiêu
 
