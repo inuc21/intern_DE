@@ -1,0 +1,21 @@
+venv/
+__pycache__/
+.env
+.ipynb_checkpoints/
+
+# Data files
+Week_*/data/raw/*.csv
+!Week_*/data/raw/sample_*.csv
+
+# Big data formats
+*.parquet
+*.orc
+
+# IDE
+.vscode/
+
+Week_3/
+Week_4/
+Week_5/
+Week_6/
+Week_2/
