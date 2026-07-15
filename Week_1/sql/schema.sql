@@ -1,5 +1,4 @@
 -- Schema cho dataset E-Commerce Sales Analytics
--- Chạy: mysql -u root -p < schema.sql
 
 CREATE DATABASE IF NOT EXISTS ecommerce_sales_db
     CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
