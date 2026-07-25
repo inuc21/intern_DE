@@ -10,7 +10,7 @@ Data Engineering internship roadmap at VCCorp Platform-AdTech team.
 | ---------------------------- | -------------------------------------------------------- | ---------- |
 | [Week 1](./Week_1/README.md) | Nền tảng cơ bản: Python, SQL, Linux, MySQL               | ✅         |
 | [Week 2](./Week_2/README.md) | Kiến trúc dữ liệu: OLTP, OLAP, ETL, ELT, CAP, ACID, BASE | ✅         |
-| [Week 3](./Week_3/README.md) | Big Data - Batch Processing: Spark, HDFS, Parquet        | ⏳         |
+| [Week 3](./Week_3/README.md) | Big Data - Batch Processing: Spark, HDFS, Parquet        | ✅         |
 | [Week 4](./Week_4/README.md) | Real-time Streaming: Kafka, Spark Streaming              | ⏳         |
 | [Week 5](./Week_5/README.md) | Workflow & Integration: Airflow, NiFi, API Integration   | ⏳         |
 | [Week 6](./Week_6/README.md) | Production Pipeline: Log Processing System               | ⏳         |

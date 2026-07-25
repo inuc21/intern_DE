@@ -1,0 +1,9 @@
+read_full_dataset,14.72,16.81,17500000
+format,read_seconds,query_seconds
+csv,11.9,4.08
+parquet,0.48,0.97
+orc,0.23,1.0
+format,read_seconds,query_seconds
+csv,9.21,3.67
+parquet,0.39,0.64
+orc,0.51,0.77
