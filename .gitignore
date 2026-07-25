@@ -1,7 +1,8 @@
 venv/
+venv_spark/
 __pycache__/
 .env
-.ipynb_checkpoints/
+Week_*/scripts/test_*.ipynb
 
 # Data files
 Week_*/data/raw/*.csv
@@ -10,11 +11,12 @@ Week_*/data/raw/*.csv
 # Big data formats
 *.parquet
 *.orc
+Week_*/data/processed/*.parquet
+Week_*/data/processed/sales_*/
 
 # IDE
 .vscode/
 
-Week_3/
 Week_4/
 Week_5/
 Week_6/
