@@ -60,8 +60,7 @@ xác nhận đúng cơ chế qua `PartitionFilters` trong execution plan.
 - **Mất kết nối Jupyter liên tục khi convert Parquet/ORC** trên 17.5 triệu dòng qua VS
   Code — nghi do WSL2 thiếu RAM khiến kernel bị OOM kill. Xử lý bằng cách convert notebook
   sang script (`jupyter nbconvert --to script`) và chạy trực tiếp qua terminal — ổn định
-  hơn hẳn vì không phụ thuộc kết nối websocket của VS Code. Từ nay, các job Spark nặng sẽ
-  ưu tiên chạy qua terminal, notebook chỉ dùng để explore và xem kết quả.
+  hơn hẳn vì không phụ thuộc kết nối websocket của VS Code.
 
 ## Việc cần làm tiếp
 

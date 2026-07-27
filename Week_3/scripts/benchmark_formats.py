@@ -3,7 +3,6 @@
 
 # NOTE: File này được sinh tự động từ benchmark_formats.ipynb bằng lệnh:
 #   jupyter nbconvert --to script benchmark_formats.ipynb
-# Muốn sửa logic, sửa ở .ipynb rồi convert lại, không sửa trực tiếp file .py này.
 
 #!/usr/bin/env python
 # coding: utf-8

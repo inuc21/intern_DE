@@ -153,9 +153,7 @@ python benchmark_formats.py
 ```
 
 Chạy qua terminal ổn định hơn hẳn vì không phụ thuộc kết nối websocket của VS Code, và
-job chạy trọn vẹn không bị gián đoạn. Bài học: với các job Spark nặng (xử lý dữ liệu lớn,
-thời gian chạy dài), nên ưu tiên chạy qua script/terminal; dùng notebook chủ yếu cho các
-bước explore, xem kết quả, hoặc job nhẹ.
+job chạy trọn vẹn không bị gián đoạn.
 
 ## 7. Kết luận
 
